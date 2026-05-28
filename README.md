@@ -1,4 +1,4 @@
-# eBay iPhone Resale — Price Analysis
+# Python eBay iPhone Resale — Price Analysis
 
 ## Why this project
 
